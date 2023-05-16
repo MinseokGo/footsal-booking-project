@@ -102,8 +102,11 @@ input[type=time] {
     height: 80px;
     background-color: #BCA9F5;
     border-radius: 0 0 15px 15px;
-    left: 49%;
-    bottom: 115px;
+    left: 49.5%;
+    bottom: 97.5px;
     position: absolute;
     transform: translate(-50%, 0);
+    font-size: 2rem;
+    text-align: center;
+    line-height: 250%;
 }
